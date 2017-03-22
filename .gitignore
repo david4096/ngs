@@ -1,0 +1,14 @@
+*.log
+*~
+\#*
+.\#*
+._*
+
+*.suo
+OUTDIR
+*.ipch
+
+/.cproject
+/.project
+/.pydevproject
+.idea/
